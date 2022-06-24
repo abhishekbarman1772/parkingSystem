@@ -1,5 +1,3 @@
-config/dev
-config/prod
 logs
 
 node_modules
